@@ -23,6 +23,11 @@
 *.lib
 
 # Executables
+bin/*
+test/bin/*
+doc/html/*
 *.exe
 *.out
 *.app
+
+
